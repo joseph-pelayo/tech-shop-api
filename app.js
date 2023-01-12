@@ -17,6 +17,5 @@ const mongoose = require('mongoose');
 // Instantiate an Express object
 const app = express();
 
-
 // Make the entire module app available for import elsewhere
 module.exports = app;
